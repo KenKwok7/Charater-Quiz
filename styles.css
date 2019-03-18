@@ -1,0 +1,8 @@
+img {
+  margin: 5px;
+  border-color: magenta;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 4px;
+    width: 450px;
+}
